@@ -1,3 +1,3 @@
 export var GLOBAL = {
-  url: 'http://iot4smarts.com/'
+  url: 'https://shrouded-springs-40173.herokuapp.com/'
 }
