@@ -1,3 +1,3 @@
 export var GLOBAL = {
-  url: 'https://leonardosuacha.github.io/api/'
+  url: 'https://leonardosuacha.github.io/apigit/'
 }
